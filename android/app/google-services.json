@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024743543119",
+    "project_id": "warr10r",
+    "storage_bucket": "warr10r.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024743543119:android:2d07ec3d7e05380ca4353a",
+        "android_client_info": {
+          "package_name": "in.edu.ietdavv.vaccine_distribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024743543119-3h6p2kogmk62d8n47b629fqcnh0eoo5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.edu.ietdavv.vaccine_distribution",
+            "certificate_hash": "c2c312f408d7292eccd803606e38d3e8efdbdbf4"
+          }
+        },
+        {
+          "client_id": "1024743543119-k011hdruaanspe0el0ndum5fc67mrkf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2GTyXkxuONb1aoJE8aagPy4lPI2Ovz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024743543119-k011hdruaanspe0el0ndum5fc67mrkf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
